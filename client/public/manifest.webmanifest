@@ -1,0 +1,11 @@
+{
+  "name": "EventCheckin",
+  "short_name": "CheckIn",
+  "description": "QR event attendance PWA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F7FA",
+  "theme_color": "#0B2A5B",
+  "orientation": "portrait-primary",
+  "icons": []
+}
